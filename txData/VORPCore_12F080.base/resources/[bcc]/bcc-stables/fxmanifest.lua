@@ -16,6 +16,7 @@ client_scripts {
     'client/main.lua',
     'client/horseinfo.lua',
     'client/menus/*.lua',
+    'client/devcommands.lua'
 }
 
 server_scripts {
