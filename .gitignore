@@ -19,7 +19,7 @@ logs/
 data/
 txData/default/data/playersDB.backup.json
 txData/admins.json
-**/server.cfg
+# **/server.cfg
 txData/default/*.json
 **/.replxx_history
 /**/node_modules/
